@@ -5,7 +5,7 @@ Note Taking Web Application
 This is a simple note taking web application built using Node.js, Express, MySQL, and React.
 
 Installation
-Clone the repository: git clone https://github.com/your-username/note-taking-app.git
+Clone the repository: git clone https://github.com/cruzwills/note-taking-app.git
 Install server dependencies: cd note-taking-app/server && npm install
 Install client dependencies: cd ../client && npm install
 Configuration
